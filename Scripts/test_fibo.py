@@ -5,7 +5,7 @@ from fibo import fibonacci
 #Se importa del archivo fibo.py la funcion fibonacci
 
 class TestMain(unittest.TestCase):
-    def test_add(self):
+    def comprobar_fibo(self):
         self.assertEqual(fibonacci(5),3)
 #Se pone en fibonacci la posicion 5 y se indica que su resultado debe ser igual a 3
 
