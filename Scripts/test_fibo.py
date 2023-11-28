@@ -13,5 +13,4 @@ class CompruebaFibonacci(unittest.TestCase):
 
 if __name__== '__main__':
     unittest.main()
-
-#Es necesario name = main puesto que si no, no ejecutara el test para compararlos
+#Es necesario name = main ya que si no se pone, no ejecutara el test para compararlos
