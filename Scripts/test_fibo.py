@@ -4,7 +4,6 @@ import unittest
 from fibo import fibonacci
 #Se importa del archivo fibo.py la funcion fibonacci
 
-
 class CompruebaFibonacci(unittest.TestCase):
 #Se crea una clase nueva y se utiliza TestCase para comprobar si se cumple el resultado esperado de la funcion de Fibonacci
     def test_fibonacci(self):
