@@ -1,4 +1,4 @@
-## La escala de Fibonacci es: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, etc
+# La escala de Fibonacci es: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, etc
 
 def fibonacci(n):
 #Se creara una funcion para definir la escala de Fibonacci

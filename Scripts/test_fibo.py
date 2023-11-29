@@ -1,8 +1,9 @@
+import unittest
+#Se importa la libreria unittest
+
 from fibo import fibonacci
 #Se importa del archivo fibo.py la funcion fibonacci
 
-import unittest
-#Se importa la libreria unittest
 
 class CompruebaFibonacci(unittest.TestCase):
 #Se crea una clase nueva y se utiliza TestCase para comprobar si se cumple el resultado esperado de la funcion de Fibonacci
