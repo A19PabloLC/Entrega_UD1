@@ -16,4 +16,4 @@ def fibonacci(n):
 #Utilizando la formula matematica de la sucesion de Fibonacci, se podra averiguar el numero de cada posicion en la sucesion a partir de la posicion 4
 
 print(fibonacci(5))
-#Poniendo un numero 5 que se corresponde con la posicion 5 de Fibonacci, nos devolvera el numero 3
+#Poniendo un numero 5 que se corresponde con la posicion 5 de Fibonacci, nos devolvera el numero 5
