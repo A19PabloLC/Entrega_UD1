@@ -1,4 +1,4 @@
-# La escala de Fibonacci es: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, etc
+#La escala de Fibonacci es: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, etc
 
 def fibonacci(n):
 #Se creara una funcion para definir la escala de Fibonacci
@@ -16,4 +16,4 @@ def fibonacci(n):
 #Utilizando la formula matematica de la escala de Fibonacci, se podra averiguar el numero de cada posicion en la secuencia a partir de la posicion 4
 
 print(fibonacci(5))
-#Poniendo un numero 5 que se corresponde con la posicion 5 de Fibonacci, nos indicara el numero 3
+#Poniendo un numero 5 que se corresponde con la posicion 5 de Fibonacci, nos devolvera el numero 3
